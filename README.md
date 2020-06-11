@@ -12,4 +12,4 @@ Remote sensing data and technologies provide an unique opportunity to understand
 
 ### Contact
 
-Do you want to contribute? [Drop us an e-mail](rs4all@zohomail.com) and we’ll help you sort it out.
+Do you want to contribute? [Drop us an e-mail](mailto:rs4all@zohomail.com) and we’ll help you sort it out.
