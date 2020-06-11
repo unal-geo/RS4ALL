@@ -2,17 +2,14 @@
 
 The challenges of sustainable development require new forms of research or cooperation. It is only trough collective learning that the ideas of individuals can turn into actions.
 
-Remote sensing data and technologies provide an unique opportunity to understanding territories and to reshape our thinking for achieving the objectives of sustainable development. 
-
-Our Lab is committed to diffuse concepts, techniques and tools that may help to transform the society.  
+Remote sensing data and technologies provide an unique opportunity to understanding territories and to reshape our thinking for achieving the objectives of sustainable development. Our Lab is committed to diffuse remote sensing concepts, techniques and tools that may help to transform the society.  
 
 ### Organization
 
-[1.Field Preparation](https://github.com/unal-geo/RS4ALL/blob/master/1.-Field-preparation.md)
+[#### Satellite Remote Sensing]
 
-
-
+[#### UAV Remote Sensing]
 
 ### Contact
 
-Do you want to contribute? [Drop us an e-mail](rs4ll@gmail.com) and we’ll help you sort it out.
+Do you want to contribute? [Drop us an e-mail](rs4all@zohomail.com) and we’ll help you sort it out.
