@@ -8,6 +8,8 @@ Our Lab is committed to diffuse concepts, techniques and tools that may help to 
 
 ### Organization
 
+[1.Field Preparation](https://github.com/unal-geo/RS4ALL/blob/master/1.-Field-preparation.md)
+
 
 
 
