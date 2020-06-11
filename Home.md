@@ -1,6 +1,7 @@
-#Welcome to the UAVPP wiki!
-Steps for a successful UAV Flight over breeding field.
+# Welcome to the **Remote Sensing For All** wiki!
 
+
+## Steps for a successful UAV Flight for Crop Monitoring
 ### 1. Field preparation 
 [Field preparation](https://github.com/oceam/UAVPP/wiki/1.-Field-preparation)
 ### 2. Use Mission Planner to design flight course.
@@ -28,6 +29,9 @@ demo source code available [here](https://)
   * [to orthomosaic based plots]
   * [to original image based plots]
 * image processing
+
+
+## Remote Sensing Resources 
 
 ### . Related useful Links
 #### Public Policy over the world [link](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/)
