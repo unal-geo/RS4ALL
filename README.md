@@ -6,9 +6,9 @@ Remote sensing data and technologies provide an unique opportunity to understand
 
 ### Organization
 
-#### [UAV Remote Sensing](https://github.com/unal-geo/UAV4A/README.md)
+- [UAV Remote Sensing](https://github.com/unal-geo/UAV4A/README.md)
 
-#### [Satellite Remote Sensing](https://github.com/unal-geo/satelliteRS/README.md)
+- [Satellite Remote Sensing](https://github.com/unal-geo/satelliteRS/README.md)
 
 ### Contact
 
