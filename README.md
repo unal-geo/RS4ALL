@@ -4,7 +4,9 @@ The challenges of sustainable development require new forms of research and coop
 
 Remote sensing data and technologies provide an unique opportunity to understanding territories and to reshape our thinking for achieving the objectives of sustainable development. Our Lab is committed to diffuse remote sensing concepts, techniques and tools that may help to transform the society.  
 
-### Organization
+### Links
+
+In the following links you will find code and tutorials contributed by remote sensing researchers.
 
 - [UAV Remote Sensing](https://unal-geo.github.io/UAV4A)
 
